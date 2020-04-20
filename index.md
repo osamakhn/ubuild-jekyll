@@ -31,9 +31,6 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: simple-footer
-  block: footer-1
-  content: Hello world! ❤︎
 
 ---
 foo bar
